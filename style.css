@@ -1,0 +1,52 @@
+.flag{
+    display: block;
+}
+
+
+.japan{
+    border: whitesmoke solid 5px;
+    height: 300px;
+    width: 400px;
+    background-color:#ffffff;
+}
+.img-japan{
+    height: 250px;
+    width: 250px;
+    padding-left: 70px;
+    padding-top: 20px;
+    align-items: center;
+}
+.Armenia{
+    height:300px;
+    width:600px;
+}
+.a{
+    height: 100px;
+    width:600px;
+    background-color: #be0026;
+}
+.b{
+    height: 100px;
+    width:600px;
+    background-color:#3c5aa3;
+}
+.c{
+    height: 100px;
+    width:600px;
+    background-color:#e2ae58;
+ 
+}
+
+.Bangladesh{
+    height: 300px;
+    width: 400px;
+    background-color: #006952;
+}
+.img-Bangladesh{
+    height: 250px;
+    width: 250px;
+    padding-left: 70px;
+    padding-top: 20px;
+    align-items: center;
+
+}
